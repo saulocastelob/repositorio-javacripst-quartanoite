@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.img-carrossel{
+height: 400px;
+object-fit: cover;
+background-color: blue;
+}
+
+.titulo{
+    font-family: 'Roboto', sans-serif;
+}
+
